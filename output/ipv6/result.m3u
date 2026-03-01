@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yzt98/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-27 18:27:06
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-01 18:14:28
 https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544$订阅源
@@ -48,7 +48,7 @@ https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://pull-hls-f11.douyincdn.com/media/stream-695364351288148652.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772429160&major_anchor_level=common&sign=c3afd9cc5fd514ab3283b7ef634591f8&t_id=037-20260223132600E2615F6616C60DCE874C-eVkiIY$订阅源
+http://pull-hls-f26.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ab7b70&major_anchor_level=common&sign=542803b7c3f5a51fcdb0d7da26b8edaf&t_id=037-202602280912163E3044C1B70B084BC18C-M0fuoH$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://iptv.catvod.com/live.php?id=CCTV14%E5%B0%91%E5%84%BF$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
@@ -127,8 +127,6 @@ https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&Hl
 https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 https://www.freetv.top/migu/783847495.m3u8?migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178b45706a0b6a0ceddc82ce06e53375cfedbc96fd0b00c12195c7d77b6f23811a67970bcfeb47629aa5aa6$订阅源
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86$订阅源
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$订阅源
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
